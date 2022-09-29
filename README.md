@@ -11,11 +11,6 @@
 
 ---
 
-## Slides
-[Click Me!]()
-
----
-
 ## Contact Information and Credit
 
 If you have any questions or concerns, please email me (nicmatt@uw.edu).
